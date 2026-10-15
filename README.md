@@ -1,7 +1,7 @@
 <!-- ===================== HERO BANNER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:00d4ff&height=220&section=header&text=Vinay%20Kumar%20Gokinepalli&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=aka%20Vinnu&descAlignY=58&descSize=20" width="100%" alt="Header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:00d4ff&height=220&section=header&text=Vinay%20Kumar%20Gokinepalli&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%20Vinnu&descAlignY=58&descSize=20" width="100%" alt="Header banner"/>
 
 <!-- ✏️ Edit the typing lines below: separate each line with a semicolon (;) and use %20 for spaces -->
 <a href="https://github.com/vinaykumar2705-coder">
